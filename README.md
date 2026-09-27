@@ -4,14 +4,6 @@ Synthetic EEG Generation · Computer Vision · Deep Learning · Real-Time Visual
 
 <p align="center">A Python-based research and engineering prototype for synthetic multi-channel EEG simulation, signal perturbation, webcam-based eye-state detection, and interactive visualization.
 
-</p><p align="center">"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-"TensorFlow" (https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)
-"Keras" (https://img.shields.io/badge/Keras-Deep%20Learning-red?logo=keras&logoColor=white)
-"Streamlit" (https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
-"OpenCV" (https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv&logoColor=white)
-"MediaPipe" (https://img.shields.io/badge/MediaPipe-Face%20Mesh-00A98F)
-
-</p>---
 
 📌 Overview
 
